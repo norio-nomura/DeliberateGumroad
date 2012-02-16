@@ -1,0 +1,40 @@
+#i_want_this_button {
+  opacity: 0.0;
+  visibility: hidden;
+  -webkit-animation-delay: 60s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-name: i_want_this_button;
+}
+
+@-webkit-keyframes 'i_want_this_button' {
+  0% {
+    opacity: 0.0;
+    visibility: visible;
+  }
+  10% {
+    opacity: 1.0;
+    visibility: visible;
+    -webkit-box-shadow: 0 0 3px rgb(255,114,0);
+  }
+  30% {
+    opacity: 1.0;
+    visibility: visible;
+    -webkit-box-shadow: 0 0 100px rgb(255,114,0);
+  }
+  70% {
+    opacity: 1.0;
+    visibility: visible;
+    -webkit-box-shadow: 0 0 30px rgb(255,114,0);
+  }
+  90% {
+    opacity: 1.0;
+    visibility: visible;
+    -webkit-box-shadow: 0 0 3px rgb(255,114,0);
+  }
+  100% {
+    opacity: 1.0;
+    visibility: visible;
+    -webkit-box-shadow: none;
+  }
+}
