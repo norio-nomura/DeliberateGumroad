@@ -45,6 +45,8 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://norio-nomura.github.com/DeliberateGumroad/Manifest.plist</string>
 	<key>Website</key>
 	<string>http://norio-nomura.github.com/DeliberateGumroad/</string>
 </dict>

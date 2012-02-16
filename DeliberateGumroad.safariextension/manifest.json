@@ -2,6 +2,7 @@
   "name":"Deliberate Gumroad",
   "version":"1.0",
   "description":"Deliberate Gumroad one minute before 'I want this!'.",
+  "homepage_url":"http://norio-nomura.github.com/DeliberateGumroad/",
   "icons":{
     "16":"Icon-16.png",
     "48":"Icon-48.png",
@@ -19,5 +20,6 @@
   ],
   "permissions":[
     "https://gumroad.com/*"
-  ]
+  ],
+  "update_url": "http://norio-nomura.github.com/DeliberateGumroad/updates.xml"
 }
