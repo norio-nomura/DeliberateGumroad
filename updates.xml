@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='ljhbokclenffepidpmbciboipmbaeflc'>
+    <updatecheck codebase='https://s3.amazonaws.com/gumroad/files/282f035c5b1453510bfd8dc36681889e/original/DeliberateGumroad-1.0.crx' version='1.0' />
+  </app>
+</gupdate>
